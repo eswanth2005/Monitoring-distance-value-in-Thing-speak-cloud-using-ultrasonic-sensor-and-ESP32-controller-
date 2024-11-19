@@ -1,4 +1,4 @@
-# EXP3:Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
+# EXP6:Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
 ### Name : ESWANTH KUMAR K
