@@ -1,8 +1,9 @@
 # Monitoring-distance-value-in-Thing-speak-cloud-using-ultrasonic-sensor-and-ESP32-controller
 
 # Uploading ultrasonic sensor data in Thing Speak cloud
-# Name : Harish B
-# REF NO : 212223040061
+# Name : ESWANTH KUMAR K
+# REG NO : 212223040046
+
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
 # Apparatus required:
@@ -11,6 +12,7 @@ Ultrasonic Sensor,<br>
 Power supply,<br>
 Connecting wires,<br>
 Bread board<br>
+
 # PROCEDURE:
 ## Arduino IDE
 Step1:Open the Arduino IDE<br>
